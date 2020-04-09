@@ -1,2 +1,2 @@
-# YamatoAutoRelogin
+# YamatoBusinessAutoRelogin
 ヤマトビジネスメンバーズを自動再ログインするChrome拡張
